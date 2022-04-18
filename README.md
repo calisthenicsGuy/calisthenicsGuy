@@ -17,4 +17,4 @@
 
 
 [<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" style="padding-right:10px;" />[**https://www.instagram.com/radev_sw/**]
-[![Instagram](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![Instagram](./img/globe-light.svg)](https://www.instagram.com/radev_sw/)
