@@ -13,5 +13,6 @@
 </br>
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Instagram" width="26px" src="https://pngset.com/images/linked-linkedin-icon-iconza-circle-social-text-word-logo-symbol-transparent-png-2992609.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/radoslav-radev-908a96235/)     </br>
+[<img align="left" alt="Instagram" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/radoslav-radev-908a96235/)    
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" style="padding-right:10px;" />**Instagram**](https://www.instagram.com/radev_sw/)
