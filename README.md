@@ -21,4 +21,4 @@
 <!-- CONNECT-WITH-ME-POST-LIST:END -->
 
 
-[<img align="left" alt="calisthenicsGuy's GitHub Stats" width="26px" src="https://github-readme-stats.vercel.app/api?username=calisthenicsGuy&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calisthenicsGuy)](https://github.com/anuraghazra/github-readme-stats)
