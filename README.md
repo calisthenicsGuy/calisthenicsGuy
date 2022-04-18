@@ -16,5 +16,7 @@
 [**Linkedin**](https://www.linkedin.com/in/radoslav-radev-908a96235/)
 
 
-[<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" style="padding-right:10px;" />[**https://www.instagram.com/radev_sw/**]
-[![Instagram](./img/globe-light.svg)](https://www.instagram.com/radev_sw/)
+[<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" style="padding-right:10px;"/>**Instagram**](https://www.instagram.com/radev_sw/)
+</br>
+</br>
+[<img align="left" alt="Instagram" width="26px" src="https://pngset.com/images/linked-linkedin-icon-iconza-circle-social-text-word-logo-symbol-transparent-png-2992609.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/radoslav-radev-908a96235/)
