@@ -4,7 +4,7 @@
 <!-- ABOUT-ME-POST-LIST:START -->
 <h2>I'm a currently studying at SoftUni!</h2>
   <h4>• 🌱 I’m currently learning everything 🤣
-  </br>• 🥅 2022 Goals: Learn more about ASP.NET Core MVC and start Work as a junior programmer🎯
+  </br>• 🥅 2022 Goals: Learn more about ASP.NET Core MVC and grt my firsr job as a junior programmer🎯
   </br>• ⚡ Fun fact: I love calisthenics, powerlifting and football🤸‍♂️🏋‍
   </br>• 🔎 I'm interested in investing
   </br>• 🕯 Everyday Hustler 🕯</h4>
